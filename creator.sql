@@ -8,7 +8,7 @@ primColor varchar(9),
 secondColor varchar(9),
 doors int not null,
 --Performance
-acceleration decimal(2,1),
+acceleration decimal(3,1),
 topSpeed int,
 mpgHi decimal(3,1),
 mpgCity decimal(3,1),
